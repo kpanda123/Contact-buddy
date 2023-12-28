@@ -1,3 +1,11 @@
+Developed a React-based contact management application, as a hands-on project to solidify proficiency in React
+fundamentals. Demonstrated expertise in component-based architecture, state management using hooks, and
+implementation of CRUD operations with Axios. Additionally, showcased proficiency in React Router for seamless
+navigation and integrated a robust search functionality using hooks and filter methods.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
